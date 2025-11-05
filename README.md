@@ -42,10 +42,10 @@
 <p align="left">Connect with me </p>  
 <div align="center">
 <a href="https://github.com/kkkkkdfsd" target="_blank">
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6b165c41-232d-40cd-b2a8-daa6486f33b5" style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6b165c41-232d-40cd-b2a8-daa6486f33b5" style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 </a>
 <a href="https://instagram.com/dmitriev_misha_" target="_blank">
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/85c94565-862c-4f95-944b-f61578be40fd" style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/85c94565-862c-4f95-944b-f61578be40fd" style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
 </a>  
 </div>  
 <br/>  
