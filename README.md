@@ -39,10 +39,11 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
     </p>
 <br/>  
-## Connect with me  
+<p align="left">Connect with me </p>  
 <div align="center">
 <a href="https://github.com/kkkkkdfsd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6b165c41-232d-40cd-b2a8-daa6486f33b5" />
+style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/dmitriev_misha_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
