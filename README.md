@@ -39,7 +39,7 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
     </p>
 <br/>  
-<h3 align="left">Connect with me </h3>  
+<h2 align="left">Connect with me:</h2>  
 <p align="left">
 <a href="https://github.com/kkkkkdfsd" target="_blank">
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6b165c41-232d-40cd-b2a8-daa6486f33b5" style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
@@ -49,6 +49,6 @@
 </a>  
 </p>  
 <br/>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kkkkkdfsd&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<h2 align="left">Github Stats:</h2>  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kkkkkdfsd&show_icons=true&count_private=true&hide_border=true" align="center" /></p>  
 <br/>  
