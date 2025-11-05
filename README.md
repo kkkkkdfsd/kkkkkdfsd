@@ -39,15 +39,15 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
     </p>
 <br/>  
-<p align="left">Connect with me </p>  
-<div align="center">
+<h3 align="left">Connect with me </h3>  
+<p align="left">
 <a href="https://github.com/kkkkkdfsd" target="_blank">
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6b165c41-232d-40cd-b2a8-daa6486f33b5" style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 </a>
 <a href="https://instagram.com/dmitriev_misha_" target="_blank">
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/85c94565-862c-4f95-944b-f61578be40fd" style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
 </a>  
-</div>  
+</p>  
 <br/>  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kkkkkdfsd&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
