@@ -1,54 +1,98 @@
-<h1 align="center">Привет👋, меня зовут Михаил!</h1>  
-<h2 align="left">Обо мне👨‍💻:</h2>
+<h1 align="center">Привет 👋, меня зовут Михаил!</h1>
+
+<h2 align="left">Обо мне 👨‍💻:</h2>
 <p align="left">
-  Я джуниор веб-разработчик. Мой путь в IT начался с обучения в колледже на направлении "Разработчик веб и мультимедийных приложений", после этого я поступил в университет и продолжил обучение на направлении "Управление IT-проектами и ERP-системы". Хочу найти работу в сфере фронтентд разработки и продолжать углублять свои знания в этом направлении.  
+  Я — начинающий веб-разработчик с дипломом по специальности «Разработка веб- и мультимедийных приложений».
+  Сейчас учусь в университете по направлению «Управление ИТ-проектами и ERP-системы»,
+  а также недавно начал преподавать в колледже дисциплину, связанную с защитой информации —
+  и параллельно изучаю её сам, чтобы лучше помогать студентам.
 </p>
 <p align="left">
-  🌱 В данный момент самостоятельно изучаю востребованные технологии во фронтенде.
+  🌱 В свободное время развиваю проект <strong>«Точка роста»</strong> — веб-инструмент для школьных учителей,
+  помогающий организовывать кружки и факультативы с учётом индивидуальных потребностей учеников.
 </p>
 <p align="left">
-  ❓ Хочу найти единомышленников, с которыми смогу проходить этот путь.  
+  💡 Ищу первую/следующую позицию во <strong>фронтенд- или fullstack-разработке</strong>,
+  где смогу применять свои навыки и продолжать расти как специалист.
 </p>
 <p align="left">
-  ⚡ Интересный факт: находясь в армии писал код ручкой в тетради и не переставал обучаться.  
+  ⚡ Интересный факт: даже в армии я не переставал учиться — писал код ручкой в тетради.
 </p>
-<br/>  
-<h2 align="left">Skills:</h2>
-  <h3 align="left">Programming Languages:</h3>
-    <p align="left"> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    </p>
-  <h3 align="left">Frontend Development:</h3>
-    <p align="left"> 
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-    </p>
-    <h3 align="left">Database:</h3>
-    <p align="left"> 
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
-    </p>
-    <h3 align="left">Software:</h3>
-    <p align="left"> 
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>   
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
-    </p>
-<br/>  
-<h2 align="left">Connect with me:</h2>  
+
+<br/>
+<h2 align="left">Технологии и инструменты:</h2>
+
+<h3 align="left">Backend & Scripting:</h3>
 <p align="left">
-<a href="https://github.com/kkkkkdfsd" target="_blank">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6b165c41-232d-40cd-b2a8-daa6486f33b5" style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-</a>
-<a href="https://instagram.com/dmitriev_misha_" target="_blank">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/85c94565-862c-4f95-944b-f61578be40fd" style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
-</a>  
-</p>  
-<br/>  
-<h2 align="left">Github Stats:</h2>  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kkkkkdfsd&show_icons=true&count_private=true&hide_border=true" align="center" /></p>  
-<br/>  
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Frontend:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Базы данных:</h3>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Инструменты:</h3>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+  </a>
+</p>
+
+<br/>
+<h2 align="left">Проекты:</h2>
+<p align="left">
+  🔹 <a href="https://github.com/kkkkkdfsd/tochkarosta">Точка роста</a> — веб-приложение для планирования дополнительного образования в школах (PHP, vanilla JS, адаптивная вёрстка).
+</p>
+
+<br/>
+<h2 align="left">Связь:</h2>
+<p align="left">
+  <a href="https://github.com/kkkkkdfsd" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6b165c41-232d-40cd-b2a8-daa6486f33b5" width="40" height="40" alt="github"/>
+  </a>
+  <a href="https://instagram.com/dmitriev_misha_" target="_blank">
+    <img src="https://github.com/user-attachments/assets/85c94565-862c-4f95-944b-f61578be40fd" width="40" height="40" alt="instagram"/>
+  </a>
+</p>
+
+<br/>
+<h2 align="left">GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkkkkdfsd&show_icons=true&count_private=true&hide_border=true" />
+</p>
