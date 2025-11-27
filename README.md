@@ -77,7 +77,7 @@
 <br/>
 <h2 align="left">Проекты:</h2>
 <p align="left">
-  🔹 <a href="https://github.com/kkkkkdfsd/tochkarosta">Точка роста</a> — веб-приложение для планирования дополнительного образования в школах (PHP, vanilla JS, адаптивная вёрстка).
+  🔹 <a href="https://github.com/kkkkkdfsd/tochkarosta">Точка роста</a> — веб-приложение для планирования дополнительного образования в школах (PHP, JS, адаптивная вёрстка).
 </p>
 
 <br/>
